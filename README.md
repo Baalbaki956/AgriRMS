@@ -11,7 +11,7 @@ I have developed an agricultural resource management system website designed to 
 # How it works
 - Download or clone the AgriRMS github repository
 - Navigate to where you installed xampp -> htdocs and place the AgriRMS folder inside
-- Login to [https://](http://localhost/phpmyadmin)
+- Login to [phpMyAdmin](http://localhost/phpmyadmin)
 - Import agriman.sql database file into phpmyadmin
 - Run XAMPP and start both Apache and MySQL
 - Go to [[link]([https://www.apachefriends.org/download.html](http://localhost/AgriRMS))](localhost)
