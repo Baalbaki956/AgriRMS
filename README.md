@@ -4,9 +4,7 @@ I have developed an agricultural resource management system website designed to 
  ![Dashboard](https://github.com/Baalbaki956/AgriRMS/blob/master/dashboard.png)
 
 # Tools needed
-- XAMPP: XAMPP is a free and open-source cross-platform web server developed by Apache HTTP server. MariaDB database, and interprets for scripts written in PHP programming language.
-
-[XAMPP](https://www.apachefriends.org/download.html)
+- XAMPP: XAMPP is a free and open-source cross-platform web server developed by Apache HTTP server. MariaDB database, and interprets for scripts written in PHP programming language. [XAMPP](https://www.apachefriends.org/download.html)
 
 # How it works
 - Download or clone the AgriRMS github repository
@@ -14,5 +12,5 @@ I have developed an agricultural resource management system website designed to 
 - Login to [phpMyAdmin](http://localhost/phpmyadmin)
 - Import agriman.sql database file into phpmyadmin
 - Run XAMPP and start both Apache and MySQL
-- Go to [[link]([https://www.apachefriends.org/download.html](http://localhost/AgriRMS))](localhost)
+- Go to [localhost](http://localhost/AgriRMS)
 - Thats it !.
