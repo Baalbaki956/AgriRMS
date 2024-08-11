@@ -8,7 +8,7 @@ I have developed an agricultural resource management system website designed to 
 
 [XAMPP](https://www.apachefriends.org/download.html)
 
-#How it works
+# How it works
 - Download or clone the AgriRMS github repository
 - Navigate to where you installed xampp -> htdocs and place the AgriRMS folder inside
 - Login to [https://](http://localhost/phpmyadmin)
