@@ -6,7 +6,7 @@ I have developed an agricultural resource management system website designed to 
 # Tools needed
 - XAMPP: XAMPP is a free and open-source cross-platform web server developed by Apache HTTP server. MariaDB database, and interprets for scripts written in PHP programming language.
 
-[[link](https://www.apachefriends.org/download.html)](Download XAMPP here)
+[linkhttps://www.apachefriends.org/download.html]Download XAMPP here
 
 #How it works
 - Download or clone the AgriRMS github repository
